@@ -1,6 +1,6 @@
-package com.jacksontenorio.CursoPOOJava.aula02;
+//package com.jacksontenorio.CursoPOOJava.aula02;
 
-public class Aula02 {
+/*public class Aula02 {
     public static void main(String[] args) {
         Caneta c1 = new Caneta();
         c1.cor = "Azul";
@@ -16,3 +16,4 @@ public class Aula02 {
         c2.rabiscar();
     }
 }
+*/
