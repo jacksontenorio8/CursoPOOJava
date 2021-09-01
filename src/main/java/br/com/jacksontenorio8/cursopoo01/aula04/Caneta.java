@@ -7,9 +7,11 @@ public class Caneta {
     private String cor;
     private boolean tampada;
 
-    public Caneta (){ // Este é o metódo construtor
+    public Caneta (String modelo, String cor , float ponta){ // Este é o metódo construtor
+        this.modelo = modelo;
+        this.ponta = ponta;
         this.tampar();
-        this.cor = "Azul";
+
     }
 
     public String getModelo(){
@@ -42,7 +44,7 @@ public class Caneta {
         System.out.println("Modelo: "+ this.getModelo());
         System.out.println("Ponta "+ this.getPonta());
         System.out.println("Cor "+ this.cor);
-        System.out.println("Tampada"+ this.tampada);
+        System.out.println("Tampada: "+ this.tampada);
 
     }
 }
