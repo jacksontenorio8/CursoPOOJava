@@ -1,4 +1,4 @@
-package br.com.jacksontenorio8.cursopoo01.aula01;
+package br.com.jacksontenorio8.cursopoo.aula01;
 
 public class AulaOnline02 {
     String modelo;

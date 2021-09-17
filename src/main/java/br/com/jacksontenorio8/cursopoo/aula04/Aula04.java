@@ -1,4 +1,4 @@
-package br.com.jacksontenorio8.cursopoo01.aula04;
+package br.com.jacksontenorio8.cursopoo.aula04;
 
 
 public class Aula04 {

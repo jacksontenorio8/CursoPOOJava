@@ -1,4 +1,4 @@
-package br.com.jacksontenorio8.cursopoo01.aula01;
+package br.com.jacksontenorio8.cursopoo.aula01;
 import java.io.IOException;
 
 public class Exercicio01 {
